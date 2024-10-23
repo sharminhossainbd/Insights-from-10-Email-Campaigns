@@ -1,6 +1,6 @@
 # Ten Creative Email Campaign Hacks
 
-This report analyzes various email marketing campaigns aimed at engaging customers and driving sales. By focusing on key performance metrics such as open rates, click-through rates, and conversion rates, we seek to uncover insights that can improve future marketing strategies.
+This report analyzed various email marketing campaigns aimed at engaging customers and driving sales. By focusing on key performance metrics such as open rates, click-through rates, and conversion rates, we sought to uncover insights that can improve future marketing strategies.
 
 [<img src='https://sharminhossainbd.github.io/Insights-from-10-Email-Campaigns/Email1.png'>](https://sharminhossainbd.github.io/Insights-from-10-Email-Campaigns/Email1.png)
 
@@ -133,13 +133,13 @@ Orders were counted in two ways: for 3 days and for 15 days (as Google Analytics
 - Total Orders (15 Days): 35, Amount: 23,273/-
 
 **Note:** The open and order rates in June were lower than last month, but the click rate was better. 
-In the last 4 months, a total of 205 orders have been placed from the wishlist totalling 158,366/-.
+In the last 4 months, a total of 205 orders had been placed from the wishlist totalling 158,366/-.
 
 ---
 
 ## 8. Summary: Signed up but not ordered
 
-Normally, if a user does not place an order within the first 15/20 days of signing up, a branding email with an offer was sent. 
+Normally, if a user did not place an order within the first 15/20 days of signing up, a branding email with an offer was sent. 
 We tested sending an email in July with a link to a list of 50 must-read books to those who signed up in June but did not place an order. 
 A second email was sent to those who did not open the first one.
 
@@ -150,7 +150,7 @@ A second email was sent to those who did not open the first one.
 - Total Orders: 10
 - Total Amount: 5,022/-
 
-**Note:** Although the open and click rates were quite good, the orders were low compared to them; further experimentation will be conducted on the next month's emails. 
+**Note:** Although the open and click rates were quite good, the orders were low compared to them; further experimentation would be conducted on the next month's emails. 
 In A/B testing, English titles won over Bangla titles twice.
 
 ---
@@ -172,7 +172,7 @@ Orders were counted in two ways: for 3 days and for 15 days (as Google Analytics
 
 **Note:** In June, all metrics (open, click, and order rates) were higher than the last 3 months. 
 Compared to the previous month, the open vs. delivered rate increased by 4.48%, click vs. open rate by 11.18%, and order vs. click rate by 18.78%. 
-In the last 4 months, a total of 60 orders have been placed from the list totaling 58,259/-.
+In the last 4 months, a total of 60 orders had been placed from the list totaling 58,259/-.
 
 ---
 
@@ -191,12 +191,12 @@ Even in May and June, their "not available" numbers were lower than the average 
 
 For the third email (May 2018), those who responded did not reduce the "not available" numbers in June.
 
-**Note:** Based on the response to this test, it has been included in the biweekly phase, and SMS notifications have been set up alongside emails. 
-Currently, the entire process was being maintained manually; a proposal has been made to automate it.
+**Note:** Based on the response to this test, it had been included in the biweekly phase, and SMS notifications have been set up alongside emails. 
+The entire process was being maintained manually; a proposal has been made to automate it.
 
 ## Conclusion
 
-The analysis highlights significant insights into customer engagement, revealing strong open and click rates but variable conversion to orders. Optimizing content and automating responses will enhance efficiency and effectiveness. Leveraging these insights will be crucial for refining our email marketing strategies and achieving better business outcomes.
+The analysis highlighted significant insights into customer engagement, revealing strong open and click rates but variable conversion to orders. Optimizing content and automating responses would enhance efficiency and effectiveness. Leveraging these insights would be crucial for refining our email marketing strategies and achieving better business outcomes.
 
 
 
