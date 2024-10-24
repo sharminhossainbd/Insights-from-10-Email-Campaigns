@@ -100,7 +100,7 @@ In July, two emails were sent to first-time customers from June (890 users).
 ---
 
 
-## 6. Summary: Product Wise Suggestions (Comics)
+## Test 6: Product Wise Suggestions (Comics)
 
 Emails were sent to customers who purchased comic books but have not yet bought five popular titles. 
 A second email was sent to those who did not open the first one.
@@ -117,7 +117,7 @@ A second email was sent to those who did not open the first one.
 
 ---
 
-## 7. Summary: Wishlist_Biweekly_Test
+## Test 7: Wishlist_Biweekly_Test
 
 Biweekly emails were sent to customers who created a wishlist in June. 
 The database was checked for orders based on those who clicked the email. 
@@ -137,7 +137,7 @@ In the last 4 months, a total of 205 orders had been placed from the wishlist to
 
 ---
 
-## 8. Summary: Signed up but not ordered
+## Test 8: Signed up but not ordered
 
 Normally, if a user did not place an order within the first 15/20 days of signing up, a branding email with an offer was sent. 
 We tested sending an email in July with a link to a list of 50 must-read books to those who signed up in June but did not place an order. 
@@ -155,7 +155,7 @@ In A/B testing, English titles won over Bangla titles twice.
 
 ---
 
-## 9. Summary: List_Biweekly_Test
+## Test 9: List_Biweekly_Test
 
 Biweekly emails were sent to customers who created a list and did not place an order in June. 
 The database was checked for orders based on those who clicked the email. 
@@ -176,7 +176,7 @@ In the last 4 months, a total of 60 orders had been placed from the list totalin
 
 ---
 
-## 10. Summary: Publisher Email-NA Issue
+## Test 10: Publisher Email-NA Issue
 
 Emails were sent three times to publishers about their "not available" status before including it in a biweekly test. 
 The first email was based on data from six months (October 2017 - March 2018). Those who did not open the email were sent a second email. 
