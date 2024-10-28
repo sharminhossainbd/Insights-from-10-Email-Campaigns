@@ -1,8 +1,8 @@
-# Ten Creative Email Campaign Hacks
+# Ten-Creative-Email-Campaign-Hacks
 
 This report analyzed various email marketing campaigns aimed at engaging customers and driving sales. By focusing on key performance metrics such as open rates, click-through rates, and conversion rates, we sought to uncover insights that can improve future marketing strategies.
 
-[<img src='https://sharminhossainbd.github.io/Insights-from-10-Email-Campaigns/Email1.png'>](https://sharminhossainbd.github.io/Insights-from-10-Email-Campaigns/Email1.png)
+[<img src='https://sharminhossainbd.github.io/Ten-Creative-Email-Campaign-Hacks/Email1.png'>](https://sharminhossainbd.github.io/Ten-Creative-Email-Campaign-Hacks/Email1.png)
 
 ## Test 1: Subscriber_Biweekly_Test
 
